@@ -28,7 +28,6 @@ nav-links:
 greeting_image: /assets/good_image_campanile.jpg
 # 100-200 characters recommended
 #greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
-
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
@@ -58,3 +57,5 @@ defaults:
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
+plugins:
+  - jekyll-redirect-from
