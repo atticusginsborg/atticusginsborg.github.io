@@ -20,7 +20,7 @@ body {
 }
 
 #container {
-  width: 90%;
+  width: 100%;
   max-width: $container-max-width;
   margin: 4rem auto;
 }
@@ -103,9 +103,9 @@ img {
 }
 
 .avatar {
-  width: 7rem;
-  height: 7rem;
-  border-radius: 4rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 5rem;
   margin-right: 1.5rem;
 }
 
@@ -153,9 +153,9 @@ img {
   margin-top: 0.75rem;
 }
 
-code {
-  background: #ddd;
-  padding: 3px 5px;
-  border-radius: 2px;
-  font-family: $code-font-stack;
-}
+// code {
+//   background: #ddd;
+//   padding: 3px 5px;
+//   border-radius: 2px;
+//   font-family: $code-font-stack;
+// }
