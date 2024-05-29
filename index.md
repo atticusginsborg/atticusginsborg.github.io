@@ -19,7 +19,7 @@ All teaching thus far has been for [Data 8: Foundations of Data Science](https:/
 
 ## 👋🏻 Say hi
 
-You can contact me at <a>atticus.ginsborg@berkeley.edu</>
+You can contact me at atticus.ginsborg@berkeley.edu
 
 ## 📠 Fun facts
 
