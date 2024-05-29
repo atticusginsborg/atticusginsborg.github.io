@@ -1,19 +1,17 @@
 ---
 ---
 
-## 🤷 What I do
+## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I'm Atticus and I'm a Lecturer at [UC Berkeley]<https://www.berkeley.edu/> for the [College of Computing, Data Science, and Society]<https://cdss.berkeley.edu/> where I will be teaching [Data 6: Introduction to Computational Thinking with Data]<https://data6.org/> this summer. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I will also be graduating at then end of summer with a B.A. degrees in Data Science from the College of Computing, Data Science, and Society and Economics from the College of Letters and Sciences here at Berkeley. In the fall I will be starting my Masters in Data Science program at UChicago. I am originally from San Jose, California.
 
-## 🦕 What I've done before
-
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
-
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
-
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+## Teaching
+All teaching thus far has been for [Data 8: Foundations of Data Science]<https://www.data8.org/> at UC Berkeley.
+### Tutor - [Fall 2021]<https://www.data8.org/fa21>, [Spring 2022]<https://www.data8.org/sp22>
+### uGSI (undergraduate student instructor) - [Summer 2022]<https://www.data8.org/su22>, [Fall 2022]<https://www.data8.org/fa22>, [Spring 2023]<https://www.data8.org/su23>
+### Lead uGSI (pedagogy, logistics) - [Fall 2023]<https://www.data8.org/fa23>, [Spring 2024]<https://www.data8.org/sp24>
 
 ## 👋🏻 Say hi
 
