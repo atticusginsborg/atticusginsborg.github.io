@@ -5,32 +5,32 @@
 #
 
 # no trailing slash
-url: https://ginsborg.org
+url: https://atticusginsborg.github.io
 
 # for header and meta tags
 title: Atticus Ginsborg
-description: Data Science and Economics Student, UC Berkeley
+description: Data Science Student, U Chicago
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
-nav-links:
-  - name: Home
-    url: /
-    external: false
-  - name: Blog
-    url: /blog
-    external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
-    external: true
+# nav-links:
+#   - name: Home
+#     url: /
+#     external: false
+#   - name: Blog
+#     url: /blog
+#     external: false
+  # - name: Search Engine
+  #   url: https://duckduckgo.com
+  #   external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/good_image_campanile.jpg
+greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-#greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Hello, I'm a recent Berkeley Data Science Grad with a passion for data science, sports and education.
 # show blog post excerpts on blog page
-show_excerpts: false
-excerpt_word_count: 70
+show_excerpts: True
+excerpt_word_count: 30
 
 # long date: April 20, 1969
 long_date: true

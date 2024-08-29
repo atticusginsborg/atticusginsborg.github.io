@@ -19,10 +19,5 @@ All teaching thus far has been for [Data 8: Foundations of Data Science](https:/
 
 ## 👋🏻 Say hi
 
-You can contact me at atticus.ginsborg@berkeley.edu
+You can contact me at atticus&lt[&gt dot &lt]&gt ginsborg2020@gmail.com
 
-## 📠 Fun facts
-
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
