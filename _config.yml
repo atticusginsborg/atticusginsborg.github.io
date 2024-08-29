@@ -13,13 +13,13 @@ description: Data Science Student, U Chicago
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
-# nav-links:
-#   - name: Home
-#     url: /
-#     external: false
-#   - name: Blog
-#     url: /blog
-#     external: false
+nav-links:
+  - name: Home
+    url: /
+    external: false
+  - name: Blog
+    url: /blog
+    external: false
   # - name: Search Engine
   #   url: https://duckduckgo.com
   #   external: true
@@ -27,7 +27,7 @@ description: Data Science Student, U Chicago
 # for the homepage image + big text next to it
 greeting_image: /assets/me2.jpg
 # 100-200 characters recommended
-greeting_text: Hello, I'm a recent Berkeley Data Science Grad with a passion for data science, sports and education.
+greeting_text: Hello, I'm a Berkeley Data Science Grad with a passion for sports and education.
 # show blog post excerpts on blog page
 show_excerpts: True
 excerpt_word_count: 30
