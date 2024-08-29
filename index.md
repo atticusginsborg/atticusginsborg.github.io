@@ -23,5 +23,5 @@ All teaching thus far has been for [Data 8: Foundations of Data Science](https:/
 
 ## 👋🏻 Say hi
 
-You can contact me at atticus&lt[&gt dot &lt]&gt ginsborg2020@gmail.com
+You can contact me at a\[dot\]ginsborg@uchicago.edu
 
