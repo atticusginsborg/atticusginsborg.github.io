@@ -17,9 +17,9 @@ nav-links:
   - name: Home
     url: /
     external: false
-  # - name: Blog
-  #   url: /blog
-  #   external: false
+  - name: Blog
+    url: /blog
+    external: false
   # - name: Search Engine
   #   url: https://duckduckgo.com
   #   external: true
@@ -30,7 +30,7 @@ greeting_image: /assets/me2.jpg
 greeting_text: Hello, I'm a Berkeley Data Science Grad with a passion for sports and education.
 # show blog post excerpts on blog page
 show_excerpts: True
-excerpt_word_count: 30
+excerpt_word_count: 70
 
 # long date: April 20, 1969
 long_date: true
