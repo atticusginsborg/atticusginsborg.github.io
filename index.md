@@ -15,9 +15,13 @@ Having the opportunity to give back to the Data Science community at Cal through
 #### Lecturer - [Data 6: Introduction to Computational Thinking with Data](https://data6.org/). 
 
 All other teaching thus far has been for [Data 8: Foundations of Data Science](https://www.data8.org/) at UC Berkeley.
-#### Tutor - [Fall 2021](https://www.data8.org/fa21), [Spring 2022](https://www.data8.org/sp22)
-#### uGSI (undergraduate student instructor) - [Summer 2022](https://www.data8.org/su22), [Fall 2022](https://www.data8.org/fa22), [Spring 2023](https://www.data8.org/su23)
-#### Lead uGSI (pedagogy, logistics) - [Fall 2023](https://www.data8.org/fa23), [Spring 2024](https://www.data8.org/sp24)
+
+#### Lead uGSI (pedagogy, logistics) - [Fall 2023](https://www.data8.org/fa23), [Spring 2024](https://www.data8.org/sp24)\\
+
+#### uGSI (undergraduate student instructor) - [Summer 2022](https://www.data8.org/su22), [Fall 2022](https://www.data8.org/fa22), [Spring 2023](https://www.data8.org/su23)\\
+
+#### Tutor - [Fall 2021](https://www.data8.org/fa21), [Spring 2022](https://www.data8.org/sp22)\\
+
 
 <br> 
 
