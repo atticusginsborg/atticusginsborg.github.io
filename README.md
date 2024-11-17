@@ -1,3 +1,7 @@
+# Welcome to the Repo for my Personal Website
+
+I was able to make this using Jekyll. You can see more info on the template I adapted below!
+
 # Point Theme
 
 Point is a [Jekyll](https://jekyllrb.com/) theme for personal websites that are simple and to the point.
