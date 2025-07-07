@@ -36,6 +36,8 @@ excerpt_word_count: 70
 long_date: true
 # short date: Apr ‘69
 short_date: false
+#google-analytics
+google_analytics: G-6BWEXNPFES 
 
 #
 #
