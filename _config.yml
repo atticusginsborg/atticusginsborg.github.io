@@ -20,6 +20,10 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
+  - name: CSV
+    url: /csv
+    external: false
+
   # - name: Search Engine
   #   url: https://duckduckgo.com
   #   external: true
