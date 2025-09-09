@@ -1,6 +1,6 @@
 ---
-title: CSV
-permalink: /csv
+title: Resume
+permalink: /resume
 ---
 Check out my resume below.
 

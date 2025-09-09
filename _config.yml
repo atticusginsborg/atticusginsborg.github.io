@@ -20,8 +20,8 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
-  - name: CSV
-    url: /csv
+  - name: Resume
+    url: /resume
     external: false
 
   # - name: Search Engine
